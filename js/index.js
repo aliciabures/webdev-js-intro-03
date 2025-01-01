@@ -1,6 +1,7 @@
 // Prevent us from attempting to use variables
 // that are not declared
 "use strict"
+/*
 console.log (1+1)
 console.log (1-1)
 console.log (1+"1")
@@ -25,3 +26,5 @@ console.log (1 || 2)
 console.log (2 || 1)
 console.log (1&&2)
 console.log (1&&1)
+*/
+console.log (1+=3)
