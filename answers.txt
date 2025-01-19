@@ -1,0 +1,12 @@
+
+    Explain why a number data type added to a string data type returns a string.
+            This is because JavaScript will assume the data is a string and concatinate it. 
+
+    Name a scenario where using the == operator could cause a bug.
+        The operator == converts the data if it is a different type before it compares them, but this can lead to errors
+   
+    Name the operator(s) that you find confusing and explain why.
+        I'm confused by the difference between =, ==, and ===. It's just been difficult to remember the difference and I have to look it up everytime. 
+    
+    Explain a situation where you would use the Modulus operator and why.
+        You use the modulus operator when you want to find what is left after a number is divided by another
